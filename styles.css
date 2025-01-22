@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
+html,
+
+body {
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;background-color:#1A1A1A;
+  font-family: 'Raleway', Helvetica, sans-serif;
+  min-width: 520px;
+color:white;
+}
+
+img {
+  display:block;
+  max-width:100%;
+}
